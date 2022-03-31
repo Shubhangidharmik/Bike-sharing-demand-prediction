@@ -18,6 +18,9 @@ Regression is done on numerical data which is continuous.
 Linear regression consist of dependent and independent variables related linear to each other
 our basic aim is to create best fit line from the dependent and independent variable between two axis, it is expressed in straight line
 
+![Screenshot (227)](https://user-images.githubusercontent.com/85070726/161062232-c2a2a1cc-3dd6-4aac-988f-f0ff85c588ad.png)
+
+
 **Y=B0+B1X1+B2X2+……..+e**
 
 **B0** is intercept 
@@ -36,7 +39,7 @@ It is a type of linear regression that used for shrinkage and to avoid overfitti
 ### Ridge Regression (L2 Regularization)
 This method performs L2 regularization. When the issue of least-squares are unbiased, and variances are large, this results in predicted values being far away from the actual values. to make the optimal solution we use penalty term in cost function and minimize the cost function from the value is lambda * (Bij)2 and make final value close to zero and shrink the value.
 
-### CREDITS 
+## CREDITS 
 
 
  Shubhangi Dharmik | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
